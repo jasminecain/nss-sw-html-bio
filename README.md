@@ -31,7 +31,7 @@ Basically an HTML version of your resume.
 Create a navigation bar on each page that contains a link to both pages. You can use whatever elements you like for the navigation, but it must be contained in the appropriate HTML5 semantic element.
 
 #### Page header
-Each page should have an ```bash <h1>``` title contained in the appropriate HTML5 semantic tag.
+Each page should have an ```<h1>``` title contained in the appropriate HTML5 semantic tag.
 
 #### Page footer
 Each page should have the same footer information. Put whatever information you like in the footer.
